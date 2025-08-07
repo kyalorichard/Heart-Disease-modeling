@@ -5,8 +5,7 @@
 
 This project aims to predict heart disease risk using a **Random Forest Classifier**. The model analyzes patient health metrics such as **age, cholesterol levels, and maximum heart rate achieved** to determine the likelihood of heart disease. The application is deployed on **Streamlit Cloud** and **Render** for easy access.
 
-🔗 **Live Deployment (Streamlit):** [Heart Disease Prediction App](https://heartdieaseuppy-nv4tmjre98gmrnhvgkhcxa.streamlit.app/)
-🔗 **Live Deployment (Render):** [Heart Disease Prediction App](https://heart-disease-prediction-using-random.onrender.com/)
+🔗 **Live Deployment (Streamlit):** [Heart Disease Prediction App](https://heart-disease-modeling.streamlit.app/)
 
 ## Table of Contents
 - [Project Structure](#project-structure)
