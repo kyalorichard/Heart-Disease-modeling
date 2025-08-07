@@ -66,7 +66,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn streamlit
 ### 1️⃣ Run the Notebook Locally (For Training & Testing)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sounakss7/-Heart-Disease-Prediction-Using-Random-Forest-Classifier-
+   git clone https://github.com/kyalorichard/Heart-Disease-modeling
    ```
 2. Navigate to the project directory:
    ```bash
